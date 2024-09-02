@@ -26,7 +26,7 @@ The project was developed using the following tools and Python libraries:
 - Pandas: For data manipulation and preprocessing.
 - NumPy: For numerical computations.
 - Scikit-learn: For implementing the Support Vector Machine and other machine learning tasks.
-- Matplotlib: For plotting and visualizing data (optional, based on your use).
+- Matplotlib: For plotting and visualizing data.
 
 ## Methodology
 
