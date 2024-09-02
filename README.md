@@ -41,7 +41,7 @@ The project was developed using the following tools and Python libraries:
 
 - Support Vector Machine (SVM): Chosen for its effectiveness in binary classification tasks.
 - Model Training: The SVM model was trained using the labeled dataset.
-- Model Evaluation: Performed cross-validation and evaluated the model using accuracy, precision, recall, and F1-score metrics.
+- Model Evaluation: Performed cross-validation and evaluated the model using accuracy, precision, recall.
 
 ### Prediction
 
